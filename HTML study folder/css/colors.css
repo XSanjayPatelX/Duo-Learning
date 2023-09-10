@@ -1,0 +1,17 @@
+body{
+    background-color: slategray;
+}
+#p1{
+    background-color: brown;
+    color: blue;
+}
+#p2{
+    color: red;
+}
+#p3{
+    color: green;
+}
+#p4{
+    background-color: greenyellow;
+    color: orange;
+}
