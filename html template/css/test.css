@@ -28,7 +28,7 @@ body {
 }
 nav{
     flex: 1;
-    text-align: center;
+    text-align: left;
 }
 nav ul li{
     list-style: none;
@@ -38,4 +38,21 @@ nav ul li{
 
 nav ul li a {
     color: white;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 6%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer ul li a{
+    color: white;
+}
+.footer ul li{
+    flex: 1;
+    text-align: center;
 }
